@@ -5,3 +5,7 @@ Um script em Python utilizando interface gráfica com Tkinter para exibição de
 <img src = "RelogioDigital.png">
 
 # Soma
+
+Um script em Python utilizando interface gráfica com Tkinter para soma entre dois números.
+
+<img src = "Soma.png">
