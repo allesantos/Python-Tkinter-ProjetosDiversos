@@ -27,6 +27,8 @@ Um aplicativo simples de interface gráfica capaz de gerar um QR Code de um ende
 
 Um aplicativo simples com interface gráfica capaz de armazenar textos e fazer formatação.
 
+<img src = "Notepad.png">
+
 
 
 
