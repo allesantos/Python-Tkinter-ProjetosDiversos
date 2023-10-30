@@ -14,3 +14,5 @@ Um script em Python utilizando interface gráfica com Tkinter para soma entre do
 
 Calculadora simples em Python utilizando interface gráfica com Tkinter.
 
+<img src = "Calculadora.png">
+
