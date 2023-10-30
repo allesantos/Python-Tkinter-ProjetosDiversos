@@ -1,12 +1,12 @@
 # RelogioDigital
 
-Um script em Python utilizando interface gráfica com Tkinter para exibição de um relógio digital. 
+Um script em Python utilizando interface gráfica para exibição de um relógio digital. 
 
 <img src = "RelogioDigital.png">
 
 # Soma
 
-Um script em Python utilizando interface gráfica com Tkinter para soma entre dois números.
+Um script em Python utilizando interface gráfica para soma entre dois números.
 
 <img src = "Soma.png">
 
@@ -21,7 +21,7 @@ Calculadora simples em Python utilizando interface gráfica com Tkinter.
 Um aplicativo simples de interface gráfica capaz de gerar um QR Code de um endereço específico na web.
 
 <img src = "QRCode.png">
-<img src = "qr_canal.png">
+<img src = "qr_canal.png" width="100">
 
 
 
