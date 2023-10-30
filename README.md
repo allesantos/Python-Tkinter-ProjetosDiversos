@@ -1,4 +1,4 @@
-# RelogioDigital
+# <a href="https://github.com/allesantos/Python-Tkinter-ProjetosDiversos/blob/main/RelogioDigital.py">RelogioDigital</a>
 
 Um script em Python utilizando interface gráfica para exibição de um relógio digital. 
 
