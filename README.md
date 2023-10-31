@@ -8,26 +8,26 @@ Um script em Python utilizando interface gráfica para exibição de um relógio
 
 Um script em Python utilizando interface gráfica para soma entre dois números.
 
-<img src = "Soma.png">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Soma.png">
 
 # Calculadora
 
 Calculadora simples em Python utilizando interface gráfica com Tkinter.
 
-<img src = "Calculadora.png">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Calculadora.png">
 
 # QRCode
 
 Um aplicativo simples de interface gráfica capaz de gerar um QR Code de um endereço específico na web.
 
-<img src = "QRCode.png">
-<img src = "qr_canal.png" width="100">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/QRCode.png">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/qr_canal.png" width="100">
 
 # Notepad
 
 Um aplicativo simples com interface gráfica capaz de armazenar textos e fazer formatação.
 
-<img src = "Notepad.png">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Notepad.png">
 
 # Login
 
