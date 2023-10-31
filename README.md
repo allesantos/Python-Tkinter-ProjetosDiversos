@@ -29,6 +29,16 @@ Um aplicativo simples com interface gráfica capaz de armazenar textos e fazer f
 
 <img src = "Notepad.png">
 
+# Login
+
+Uma janela de aplicativo que pede um login e uma senha para uma autenticação.
+
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Login.png">
+
+Caso o usuário digite a senha e login padrão, irá exibir uma mensagem de boas vindas.
+
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Login-Admin.png">
+
 
 
 
