@@ -2,7 +2,7 @@
 
 Um script em Python utilizando interface gráfica para exibição de um relógio digital. 
 
-<img src = "RelogioDigital.png">
+<img src = "https://github.com/allesantos/allesantos/blob/main/imagens/RelogioDigital.png">
 
 # Soma
 
