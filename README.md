@@ -32,12 +32,39 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
 
 ## 📂 Projetos
 1. **Calculadora.py** - Calculadora simples com interface gráfica.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Calculadora.png">
+   
 2. **Gerador-Senhas.py** - Gera senhas seguras e aleatórias.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/gerador.png">
+   
 3. **Login.py** - Tela de login para autenticação de usuários.
+
+   Uma janela de aplicativo que pede um login e uma senha para uma autenticação.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Login.png">
+
+   Caso o usuário digite a senha e login padrão, irá exibir uma mensagem de boas vindas.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Login-Admin.png">
+   
 4. **Notepad.py** - Editor de textos com formatação básica.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Notepad.png">
+   
 5. **QRCode.py** - Gerador de QR Codes.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/QRCode.png">
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/qr_canal.png" width="100">
+   
 6. **RelogioDigital.py** - Relógio digital com interface gráfica.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/RelogioDigital.png">
+   
 7. **Soma.py** - Aplicativo para soma entre dois números.
+
+    <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Soma.png">
 
 ---
 
