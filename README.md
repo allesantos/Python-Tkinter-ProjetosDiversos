@@ -4,6 +4,16 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
 
 ---
 
+## 📌 Índice
+- [🚀 Recursos](#-recursos)
+- [🛠 Tecnologias](#-tecnologias)
+- [📂 Projetos](#-projetos)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [💾 Instalação](#-instalação)
+- [🤝 Contribuição](#-contribuição)
+- [📄 Licença](#-licença)
+---
+
 ## 🚀 Recursos
 - Interface gráfica amigável com Tkinter
 - Código-fonte bem estruturado e comentado
