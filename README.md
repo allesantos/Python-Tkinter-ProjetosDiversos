@@ -29,26 +29,26 @@ Antes de executar os projetos, certifique-se de ter instalado:
 - Python 3.x
 - Bibliotecas necessárias (podem ser instaladas com o comando abaixo)
 
-```sh
-pip install pillow qrcode
-```
+  ```sh
+  pip install pillow qrcode
+  ```
 
 ## 📥 Instalação
 1. Clone o repositório
 
-```sh
-git clone https://github.com/seu-usuario/tkinter-projects.git
-```
+  ```sh
+  git clone https://github.com/seu-usuario/tkinter-projects.git
+  ```
 2. Acesse a pasta do projeto:
 
-```sh
-cd tkinter-projects
-```
+  ```sh
+  cd tkinter-projects
+  ```
 3. Execute o script desejado:
 
-```sh
-python nome-do-arquivo.py
-```
+  ```sh
+  python nome-do-arquivo.py
+  ```
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir com melhorias, novos projetos ou correções! Para isso:
 
