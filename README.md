@@ -53,9 +53,9 @@ python nome-do-arquivo.py
 Sinta-se à vontade para contribuir com melhorias, novos projetos ou correções! Para isso:
 
 1. Faça um fork do repositório.
-2. Crie uma branch com a sua feature: git checkout -b minha-feature
-3. Faça o commit das suas mudanças: git commit -m 'Adiciona minha feature'
-4. Faça o push para a branch: git push origin minha-feature
+2. Crie uma branch com a sua feature: `git checkout -b minha-feature`
+3. Faça o commit das suas mudanças: `git commit -m 'Adiciona minha feature'`
+4. Faça o push para a branch: `git push origin minha-feature`
 5. Abra um Pull Request.
 
 ---
