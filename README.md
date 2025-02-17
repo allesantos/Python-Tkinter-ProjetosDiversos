@@ -1,7 +1,8 @@
 # 📌 Compilado de Projetos em Python com Tkinter
 
-## 📝 Descrição
 Este repositório contém um conjunto de pequenos projetos desenvolvidos em Python utilizando a biblioteca Tkinter para criar interfaces gráficas interativas. Cada projeto tem uma funcionalidade específica, servindo como exemplos práticos para estudo e referência.
+
+---
 
 ## 🚀 Recursos
 - Interface gráfica amigável com Tkinter
@@ -9,11 +10,15 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
 - Projetos simples e didáticos
 - Compatível com Python 3
 
+---
+
 ## 🛠 Tecnologias
 - Python 3
 - Tkinter (para interface gráfica)
 - Pillow (para manipulação de imagens em alguns projetos)
 - qrcode (para geração de QR Codes)
+
+---
 
 ## 📂 Projetos
 1. **Calculadora.py** - Calculadora simples com interface gráfica.
@@ -24,6 +29,8 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
 6. **RelogioDigital.py** - Relógio digital com interface gráfica.
 7. **Soma.py** - Aplicativo para soma entre dois números.
 
+---
+
 ## ⚙️ Pré-requisitos
 Antes de executar os projetos, certifique-se de ter instalado:
 - Python 3.x
@@ -32,6 +39,8 @@ Antes de executar os projetos, certifique-se de ter instalado:
   ```sh
   pip install pillow qrcode
   ```
+
+---
 
 ## 📥 Instalação
 1. Clone o repositório
@@ -49,7 +58,9 @@ Antes de executar os projetos, certifique-se de ter instalado:
     ```sh
     python nome-do-arquivo.py
     ```
-    
+
+---
+
 ## 🤝 Contribuição
 Sinta-se à vontade para contribuir com melhorias, novos projetos ou correções! Para isso:
 
