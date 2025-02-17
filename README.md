@@ -41,7 +41,7 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
    
 3. **Login.py** - Tela de login para autenticação de usuários.
 
-   Uma janela de aplicativo que pede um login e uma senha para uma autenticação.
+   Aqui temos uma janela de aplicativo que pede um login e uma senha para uma autenticação.
 
    <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Login.png">
 
