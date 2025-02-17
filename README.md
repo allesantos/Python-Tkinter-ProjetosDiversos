@@ -41,7 +41,7 @@ Este repositório contém um conjunto de pequenos projetos desenvolvidos em Pyth
 
 ---
 
-## ⚙️ Pré-requisitos
+## 📌 Pré-requisitos
 Antes de executar os projetos, certifique-se de ter instalado:
 - Python 3.x
 - Bibliotecas necessárias (podem ser instaladas com o comando abaixo)
